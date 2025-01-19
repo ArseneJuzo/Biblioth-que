@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-9.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie/src/build/java" />
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie/src/demo/java" />
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie/src/generated/java" />
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie/src/legacy/java" />
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie/src/main/core-api/java" />
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie/src/main/core-impl/java" />
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie/src/main/protocol-impl/java" />
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie/src/main/user-api/java" />
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie/src/main/user-impl/java" />
+      <root url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/mysql-connector-j-9.1.0 - Copie" recursive="false" />
+  </library>
+</component>
